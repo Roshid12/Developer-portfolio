@@ -35,11 +35,17 @@ font-size: 45px;
     background: #FD6E0A;
 
 }
+.header{
+    background: #FFF8F3;
+    background-image: url('../images/header_bg.png');
+    background-repeat: no-repeat;
+    background-position: bottom right;
+}
 /* banner styles */
 .banner{
     display: flex;
     align-items: center;
-    margin: 0 200px;
+    margin: 0 300px;
 }
 .banner-title{
     font-weight: 700;
