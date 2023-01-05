@@ -39,13 +39,13 @@ font-size: 45px;
     background: #FFF8F3;
     background-image: url('../images/header_bg.png');
     background-repeat: no-repeat;
-    background-position: bottom right;
+    background-position: bottom right,left;
 }
 /* banner styles */
 .banner{
     display: flex;
     align-items: center;
-    margin: 0 300px;
+    margin: 0 200px;
 }
 .banner-title{
     font-weight: 700;
